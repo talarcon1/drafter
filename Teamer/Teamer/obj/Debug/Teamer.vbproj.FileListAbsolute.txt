@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\Teamer\Teamer\bin\Debug\Teamer.exe.config
+C:\Users\Tim\Desktop\Teamer\Teamer\bin\Debug\Teamer.exe
+C:\Users\Tim\Desktop\Teamer\Teamer\bin\Debug\Teamer.pdb
+C:\Users\Tim\Desktop\Teamer\Teamer\bin\Debug\Teamer.xml
+C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.Resources.resources
+C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.vbproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.exe
+C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.xml
+C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.pdb
+C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.Form1.resources
