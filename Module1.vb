@@ -13,6 +13,7 @@
 
         '//@TA DELETE
         'testing
+        'test2
 
         'players = New Collection
         'For i = 1 To noPlayers
