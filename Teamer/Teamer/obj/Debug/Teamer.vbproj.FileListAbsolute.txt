@@ -8,3 +8,7 @@ C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.exe
 C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.xml
 C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.pdb
 C:\Users\Tim\Desktop\Teamer\Teamer\obj\Debug\Teamer.Form1.resources
+C:\Users\Tim Alarcon\Documents\GitHub\drafter\Teamer\Teamer\bin\Debug\Teamer.exe.config
+C:\Users\Tim Alarcon\Documents\GitHub\drafter\Teamer\Teamer\obj\Debug\Teamer.exe
+C:\Users\Tim Alarcon\Documents\GitHub\drafter\Teamer\Teamer\obj\Debug\Teamer.xml
+C:\Users\Tim Alarcon\Documents\GitHub\drafter\Teamer\Teamer\obj\Debug\Teamer.pdb

@@ -1,12 +1,13 @@
 ﻿Module Module1
 
     Sub Main()
-
+        '//@TA DELETE
+        '//TESTING
         Dim d As New Drafter
 
 
         'players = SetPlayersNameSkill(noPlayers, New Collection)
-        d.players = d.TestTeam()
+        d.Players = d.TestTeam()
         'Dim newplayers = ShufflePlayers(players)
 
         d.AverageRank = d.GetTotalPlayersSkill(d.Players) / d.NoTeams
